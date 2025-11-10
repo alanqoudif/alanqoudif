@@ -1,100 +1,126 @@
-<img src="assets/header-banner.svg" alt="فيصل العنقودي - الأمن السيبراني | الذكاء الاصطناعي" width="100%">
+<!-- Faisal Al Anqoudi · Professional README -->
 
-<div align="center">
-  <a href="https://linkedin.com/in/faisal-alanqoudi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/faisal_alanqoudi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:faisal.alanqoudi@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
+<p align="center">
+  <img src="assets/pulse-interface.svg" alt="Faisal Al Anqoudi – Cyber Defense & Applied AI" width="100%" />
+</p>
 
-## 💼 نبذة عني
-طالب متخصص في الأمن السيبراني مع شغف كبير بالذكاء الاصطناعي وتطبيقاته. أسعى لتطوير مهاراتي في مجال حماية المعلومات وتحليل الثغرات الأمنية، مع العمل على مشاريع مبتكرة تجمع بين الأمن السيبراني والذكاء الاصطناعي.
+<p align="center">
+  <b>Cybersecurity Engineer · Applied AI Builder · Founder of Nuqta AI</b><br />
+  Designing Oman-first intelligence systems that blend resilient cyber defense with measurable product impact.
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanqoudif&theme=dark" alt="GitHub Streak Stats">
-</div>
-
-## 🔐 مهارات الأمن السيبراني
-<div align="center">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-4B275F?style=for-the-badge" alt="Ethical Hacking">
-  <img src="https://img.shields.io/badge/Penetration%20Testing-0078D7?style=for-the-badge" alt="Penetration Testing">
-  <img src="https://img.shields.io/badge/Network%20Security-00A4EF?style=for-the-badge" alt="Network Security">
-  <img src="https://img.shields.io/badge/Cryptography-FFB900?style=for-the-badge" alt="Cryptography">
-  <img src="https://img.shields.io/badge/Malware%20Analysis-107C10?style=for-the-badge" alt="Malware Analysis">
-  <img src="https://img.shields.io/badge/Incident%20Response-F25022?style=for-the-badge" alt="Incident Response">
-  <img src="https://img.shields.io/badge/ISO%2027001-00897B?style=for-the-badge" alt="ISO 27001">
-</div>
-
-## 🤖 مهارات الذكاء الاصطناعي
-<div align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge" alt="NLP">
-  <img src="https://img.shields.io/badge/Big%20Data-E25A1C?style=for-the-badge" alt="Big Data">
-  <img src="https://img.shields.io/badge/Python%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python AI">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-</div>
-
-## 💻 المهارات التقنية
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Nmap-5391FE?style=for-the-badge" alt="Nmap">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</div>
-
-## 🚀 المشاريع
-### [نظام كشف التهديدات المعتمد على الذكاء الاصطناعي](projects/ai-threat-detection/README.md)
-تطوير نموذج للكشف عن الهجمات السيبرانية باستخدام خوارزميات التعلم الآلي. يقوم النظام بتحليل أنماط حركة المرور على الشبكة للكشف عن السلوكيات المشبوهة والهجمات المحتملة في الوقت الفعلي.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AI-Threat%20Detection-blue?style=for-the-badge" alt="AI Threat Detection">
-</div>
-
-### [ماسح الثغرات الأمنية لتطبيقات الويب](projects/web-vulnerability-scanner/README.md)
-أتمتة عمليات البحث عن الثغرات الأمنية في تطبيقات الويب باستخدام أدوات متقدمة وتقنيات اختبار الاختراق. يساعد المشروع في تحديد نقاط الضعف قبل أن يتمكن المهاجمون من استغلالها.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Web-Security-red?style=for-the-badge" alt="Web Security">
-</div>
-
-### تطبيق للأمن السيبراني
-تطوير أداة لتقييم مستوى الأمان في الأنظمة والشبكات، مع تقديم توصيات لتحسين الوضع الأمني وسد الثغرات المحتملة.
-
-## 📚 التعليم
-- بكالوريوس في الأمن السيبراني (قيد الدراسة)
-- شهادات في مجال الأمن السيبراني والذكاء الاصطناعي
-
-## 📊 إحصائيات GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanqoudif&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanqoudif&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
-## 📫 تواصل معي
-أنا دائمًا منفتح للتعاون في مشاريع الأمن السيبراني والذكاء الاصطناعي. إذا كنت مهتمًا بالعمل معًا أو لديك أي استفسارات، فلا تتردد في التواصل معي عبر:
-
-- البريد الإلكتروني: faisal.alanqoudi@example.com
-- لينكد إن: [فيصل العنقودي](https://linkedin.com/in/faisal-alanqoudi)
-- تويتر: [@faisal_alanqoudi](https://twitter.com/faisal_alanqoudi)
+<p align="center">
+  <a href="mailto:faisal@nuqtai.com">Email</a> ·
+  <a href="https://linkedin.com/in/anqoudi">LinkedIn</a> ·
+  <a href="https://github.com/anqoudi">GitHub</a> ·
+  <a href="https://nuqtai.com">Nuqta AI</a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alanqoudif&style=flat-square&color=blue" alt="Profile Views">
-</div>
+## Command Deck
 
-⭐️ من [alanqoudif](https://github.com/alanqoudif)
+- Leading **Nuqta AI**, an applied intelligence studio building multilingual copilots, WhatsApp agents, and automation layers for Omani enterprises.
+- Cybersecurity Engineering student @ **Middle East College** with emphasis on threat intelligence, secure infrastructure, and red-team simulations.
+- Delivering AI transformations for hackathons and national initiatives including **GeoTech**, **Wix Summit**, and **Injaz Oman**.
+- Advocate for responsible AI deployment grounded in compliance, observability, and business KPIs.
+
+---
+
+## Strategic Focus
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">AI Systems Delivery</h4>
+      <p><strong>What:</strong> Retrieval-augmented copilots, sector-specific chatbots, autonomous workflows.<br /><strong>Stack:</strong> LangChain · OpenAI · Gemini · Supabase · n8n · Automapi.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">Cyber Defense Engineering</h4>
+      <p><strong>What:</strong> Threat modeling, phishing simulations, incident playbooks, SOC automation.<br /><strong>Toolkit:</strong> Burp Suite · Nessus · Metasploit · Wireshark · Nmap.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">Product & Deployment</h4>
+      <p><strong>What:</strong> Full-stack MVPs, SaaS control panels, hybrid cloud rollouts.<br /><strong>Enablers:</strong> Next.js · Tailwind · Docker · Vercel · Hostinger VPS.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Signature Systems
+
+| Initiative | Outcome | Core Technologies |
+| --- | --- | --- |
+| **Nuqta AI Control Center** | Unified SaaS delivering AI copilots, WhatsApp automation, and Omani Arabic UX for SMBs. | Next.js · LangChain · Supabase · n8n |
+| **Dahih Conversational Agent** | Civic tourism chatbot answering questions on education, travel, and government services. | OpenAI · Automapi · WhatsApp Cloud API |
+| **CyberMirror 2.0** | Phishing simulation suite with analytics for corporate awareness programs. | Flask · Python · SQLite · Docker |
+| **Learnz Plus** | AI tutoring companion driving adaptive learning for institutes and students. | Expo · Firebase · Gemini API |
+| **VibeCoding Workshops** | Rapid prototyping bootcamps enabling students to ship full-stack MVPs inside 48 hours. | React · Node.js · Supabase |
+
+---
+
+## Impact Snapshots
+
+- 🥉 **GeoTech Innovation Challenge** – Delivered geospatial AI insights alongside Al-Ruya.
+- 🏆 **Injaz Oman & Wix Summit 2025** – Showcased Nuqta AI omni-channel automation platform.
+- 🤝 **Al-Anqa Space & Technologies** – Mentored on scaling secure AI venture delivery.
+- 🎓 **Middle East College** – Cybersecurity Engineering, Class of 2025.
+
+---
+
+## Delivery Stack
+
+<details open>
+  <summary><strong>Languages & Frameworks</strong></summary>
+  <p>Python · JavaScript · TypeScript · SQL · Bash · Next.js · React · Tailwind CSS.</p>
+</details>
+
+<details open>
+  <summary><strong>AI & Automation</strong></summary>
+  <p>LangChain · OpenAI API · Google Gemini · Supabase Vector · Automapi · n8n.</p>
+</details>
+
+<details open>
+  <summary><strong>Cybersecurity Toolkit</strong></summary>
+  <p>Burp Suite · Nessus · Metasploit · Wireshark · Nmap · Kali Linux.</p>
+</details>
+
+<details open>
+  <summary><strong>Ops & Productivity</strong></summary>
+  <p>Docker · Vercel · Hostinger VPS · GitHub Actions · Cursor AI · VS Code.</p>
+</details>
+
+---
+
+## Activity Signals
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/anqoudi/anqoudif?color=22d3ee&label=Last%20update&style=flat-square" alt="Last commit" />
+  <img src="https://img.shields.io/github/followers/anqoudi?label=Followers&style=flat-square&color=a855f7" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/anqoudi?affiliations=OWNER&label=Profile%20stars&style=flat-square&color=34d399" alt="Profile stars" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anqoudi&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" width="72%" />
+</p>
+
+> _Realtime badges are served from shields.io and Demolab streak stats with caching to avoid blank renders._
+
+---
+
+## Operating Principles
+
+```json
+{
+  "identity": "Faisal Al Anqoudi",
+  "roles": ["Cybersecurity Engineer", "Applied AI Founder"],
+  "values": ["Secure-by-design", "Impact metrics", "Arabic-first experiences"],
+  "seeking": "Alliances that demand measurable automation and resilient delivery"
+}
+```
+
+```
+> system.shutdown()
+CONNECTION TERMINATED _
+```
