@@ -1,84 +1,77 @@
-<!-- Faisal Al Anqoudi · Neural Terminal README -->
+<!-- Faisal Al Anqoudi · Neural Nexus README -->
 
 <p align="center">
-  <img src="assets/neural-terminal.svg" alt="Faisal Al Anqoudi – Neural Terminal" width="100%" />
+  <img src="assets/neural-terminal.svg" alt="Faisal Al Anqoudi – Neural Nexus Control Deck" width="100%" />
 </p>
 
 <p align="center">
-  <b>Cybersecurity Engineer · Applied AI Architect · Founder of Nuqta AI</b><br />
-  Building sovereign intelligence systems for Oman that merge defensive resilience with measurable business outcomes.
+  <b>Cybersecurity Engineer · Applied AI Founder · Builder of Nuqta AI</b><br />
+  Designing sovereign intelligence systems that blend Arabic-first experiences with measurable defensive resilience.
 </p>
 
 <p align="center">
-  <a href="mailto:faisal@nuqtai.com"><img src="https://img.shields.io/badge/Email-faisal%40nuqtai.com-22d3ee?style=flat-square&logo=minutemailer&logoColor=white" alt="Email Faisal" /></a>
-  <a href="https://linkedin.com/in/anqoudi"><img src="https://img.shields.io/badge/LinkedIn-Faisal%20Al%20Anqoudi-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/anqoudi"><img src="https://img.shields.io/badge/GitHub-@anqoudi-111827?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="https://nuqtai.com"><img src="https://img.shields.io/badge/Nuqta%20AI-Visit%20Site-a855f7?style=flat-square&logo=vercel&logoColor=white" alt="Nuqta AI" /></a>
+  <a href="mailto:faisal@nuqtai.com"><img src="https://img.shields.io/badge/Direct%20Signal-faisal%40nuqtai.com-22d3ee?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Faisal" /></a>
+  <a href="https://linkedin.com/in/anqoudi"><img src="https://img.shields.io/badge/LinkedIn-Faisal%20Al%20Anqoudi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/anqoudi"><img src="https://img.shields.io/badge/GitHub-@anqoudi-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://nuqtai.com"><img src="https://img.shields.io/badge/Nuqta%20AI-Portfolio-a855f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Nuqta AI" /></a>
 </p>
 
 ---
 
-## 🚀 Executive Brief
+## ⚡ Command Deck
 
-- Leading **Nuqta AI**, the applied intelligence studio crafting multilingual copilots, WhatsApp agents, and automation fabrics for Omani enterprises.
-- Cybersecurity Engineering candidate @ **Middle East College**, focused on threat intelligence, SOC automations, and red-team readiness.
-- Architecting AI solutions across hackathons and national programs including **GeoTech**, **Wix Summit**, and **Injaz Oman**.
-- Championing responsible AI deployments backed by compliance, observability, and outcome-based KPIs.
+| Signal | Details |
+| --- | --- |
+| **Current Mission** | Scaling Nuqta AI from prototype copilots into enterprise-grade assistants, WhatsApp agents, and automation fabrics for Oman’s leading teams. |
+| **Specialization** | Cyber defense engineering, applied AI design, multilingual product operations, and automation-first service delivery. |
+| **Active Zones** | Muscat · Remote GCC collaborations · Hackathons and innovation programs (GeoTech, Wix Summit, Injaz Oman). |
+| **Differentiator** | Fuses security-by-design, measurable telemetry, and Arabic UX into every deployment, from SOC runbooks to customer-facing bots. |
 
 ---
 
-## 🧠 Neural Capabilities Matrix
+## 🧠 Strategic Operating Layers
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4 align="center">Intelligent Systems</h4>
-      <p><strong>Delivery:</strong> Retrieval-augmented copilots, enterprise chatbots, multilingual knowledge engines.<br /><strong>Core:</strong> LangChain · OpenAI · Gemini · Supabase · n8n.</p>
+      <h4 align="center">Cognitive Systems</h4>
+      <p><strong>Scope:</strong> Retrieval-augmented copilots, knowledge vaults, AI-driven help desks.<br /><strong>Stack:</strong> LangChain · OpenAI · Gemini · Supabase · n8n.</p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">Cyber Defense</h4>
-      <p><strong>Delivery:</strong> Threat modeling, phishing simulations, SOC runbooks, purple-team labs.<br /><strong>Toolkit:</strong> Burp Suite · Nessus · Metasploit · Wireshark · Nmap.</p>
+      <h4 align="center">Cyber Fusion</h4>
+      <p><strong>Scope:</strong> Threat hunting, phishing simulations, SOC automation, purple-team labs.<br /><strong>Toolkit:</strong> Burp Suite · Nessus · Metasploit · Wireshark · Nmap.</p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">Product Ops</h4>
-      <p><strong>Delivery:</strong> SaaS control centers, multi-cloud rollouts, continuous delivery pipelines.<br /><strong>Stack:</strong> Next.js · React · Tailwind CSS · Docker · Vercel · Hostinger VPS.</p>
+      <h4 align="center">Product Orchestration</h4>
+      <p><strong>Scope:</strong> SaaS control centers, CI/CD pipelines, multi-cloud rollouts.<br /><strong>Stack:</strong> Next.js · React · Tailwind CSS · Docker · Vercel · Hostinger VPS.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔭 Strategic Radar 2025
+## 🚀 Signature Deployments
 
-- **Sovereign AI Assistants:** Deploying Arabic-first copilots for regulated sectors (finance, public services, tourism).
-- **Zero-Trust Automation:** Embedding access governance and audit trails inside AI-powered workflows.
-- **Real-Time Telemetry:** Streaming operational analytics into executive dashboards for instant KPI visibility.
-- **Skill Uplift:** Delivering AI enablement workshops that graduate teams into self-sustaining builders.
-
----
-
-## 🛡️ Flagship Systems
-
-| Initiative | Mission | Core Technologies |
+| Initiative | Outcome | Core Tech |
 | --- | --- | --- |
-| **Nuqta AI Control Center** | Unified SaaS delivering AI copilots, WhatsApp automation, and Arabic UX for SMBs. | Next.js · LangChain · Supabase · n8n |
-| **Dahih Conversational Agent** | Tourism + civic services chatbot answering in Omani Arabic. | OpenAI · Automapi · WhatsApp Cloud API |
-| **CyberMirror 2.0** | Phishing simulation suite with analytics for enterprise awareness programs. | Flask · Python · SQLite · Docker |
-| **Learnz Plus** | AI tutoring companion powering adaptive learning journeys. | Expo · Firebase · Gemini API |
-| **VibeCoding Workshops** | Rapid prototyping bootcamps that ship MVPs in 48 hours. | React · Node.js · Supabase |
+| **Nuqta AI Control Center** | Omni-channel AI assistants and WhatsApp automation powering SMB growth with Arabic-first UX. | Next.js · LangChain · Supabase · n8n |
+| **Dahih Conversational Agent** | Tourism + civic knowledge bot answering in colloquial Omani Arabic with real-time retrieval. | OpenAI · Automapi · WhatsApp Cloud API |
+| **CyberMirror 2.0** | Enterprise phishing simulation arena with analytics on human resilience and response speed. | Flask · Python · SQLite · Docker |
+| **Learnz Plus** | AI tutoring companion that personalizes coursework journeys for students across Oman. | Expo · Firebase · Gemini API |
+| **VibeCoding Workshops** | Rapid prototyping bootcamps guiding students from ideation to MVP in 48 hours. | React · Node.js · Supabase |
 
 ---
 
-## 📊 Impact & Recognition
+## 🎯 Momentum & Recognition
 
 - 🥉 **GeoTech Innovation Challenge** – Delivered geospatial AI intelligence with Al-Ruya.
-- 🏆 **Injaz Oman & Wix Summit 2025** – Presented Nuqta AI omni-channel automation platform.
-- 🤝 **Al-Anqa Space & Technologies** – Mentored on scaling secure AI venture delivery.
-- 🎓 **Middle East College** – Cybersecurity Engineering, Class of 2025.
+- 🏆 **Injaz Oman & Wix Summit 2025** – Showcased Nuqta AI omni-channel automation platform.
+- 🤝 **Al-Anqa Space & Technologies** – Mentorship on scaling secure AI ventures.
+- 🎓 **Middle East College** – Cybersecurity Engineering (Class of 2025).
 
 ---
 
-## 🧰 Trusted Toolchain
+## 🛠️ Systems Stack
 
 <details open>
   <summary><strong>Languages & Frameworks</strong></summary>
@@ -102,29 +95,31 @@
 
 ---
 
-## 📡 Activity Signals
+## 📡 Live Telemetry Deck
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/anqoudi/alanqoudif?color=22d3ee&label=Last%20update&style=flat-square" alt="Last commit" />
-  <img src="https://img.shields.io/github/followers/anqoudi?label=Followers&style=flat-square&color=0ea5e9" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/anqoudi?affiliations=OWNER&label=Profile%20stars&style=flat-square&color=a855f7" alt="Profile stars" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anqoudi&theme=tokyonight" alt="Faisal's profile overview" width="92%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anqoudi&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" width="72%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anqoudi&bg_color=0a0f1c&color=38bdf8&line=22d3ee&point=a855f7&area=true&hide_border=true" alt="GitHub activity graph" width="92%" />
 </p>
 
-> _Telemetry sourced from shields.io and Demolab streak stats with smart caching to prevent blank renders._
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anqoudi&theme=tokyonight_duo&hide_border=true" alt="GitHub streak" width="65%" />
+</p>
+
+> _Telemetry powered by Vercel-hosted profile summary cards, Readme Activity Graph, and Streak Stats for reliable, auto-refreshing insights._
 
 ---
 
-## 🧭 Operating Principles
+## 🧭 Operating Protocol
 
 ```json
 {
   "identity": "Faisal Al Anqoudi",
   "roles": ["Cybersecurity Engineer", "Applied AI Founder"],
-  "values": ["Secure-by-design", "Impact metrics", "Arabic-first experiences"],
+  "principles": ["Secure-by-design", "Impact telemetry", "Arabic-first experiences"],
   "seeking": "Alliances that demand measurable automation and resilient delivery"
 }
 ```
