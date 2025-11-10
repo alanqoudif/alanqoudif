@@ -1,180 +1,140 @@
-<!-- Neural Terminal: The Animated AI Portfolio -->
+<!-- Neural Nexus: Professional AI & Cyber Defense Profile -->
+
 <div align="center">
-  <svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+  <svg width="560" height="160" viewBox="0 0 560 160" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <radialGradient id="pulse" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#0ff" stop-opacity="0.9"/>
-        <stop offset="60%" stop-color="#7b2ff7" stop-opacity="0.8"/>
-        <stop offset="100%" stop-color="#05060a" stop-opacity="0"/>
-      </radialGradient>
-      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
+      <linearGradient id="scanline" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00eaff" />
+        <stop offset="50%" stop-color="#7b2ff7" />
+        <stop offset="100%" stop-color="#ff007c" />
+      </linearGradient>
+      <linearGradient id="dark" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#050712" />
+        <stop offset="100%" stop-color="#0a0f1f" />
+      </linearGradient>
     </defs>
-    <circle cx="90" cy="90" r="72" fill="url(#pulse)">
-      <animate attributeName="r" values="68;78;68" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="90" cy="90" r="62" fill="none" stroke="#0ff" stroke-width="3" opacity="0.6">
-      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.5s" repeatCount="indefinite"/>
-    </circle>
-    <text x="50%" y="55%" text-anchor="middle" fill="#0ff" font-size="42" font-family="'JetBrains Mono', 'Fira Code', monospace" filter="url(#glow)">FA</text>
-    <text x="50%" y="72%" text-anchor="middle" fill="#7b2ff7" font-size="16" font-family="'JetBrains Mono', 'Fira Code', monospace" opacity="0.8">Nuqta AI</text>
+    <rect x="0" y="0" width="560" height="160" rx="18" fill="url(#dark)" stroke="url(#scanline)" stroke-width="2" />
+    <g font-family="'JetBrains Mono', 'Fira Code', monospace" fill="#d2f6ff">
+      <text x="40" y="60" font-size="20" opacity="0.65">INITIALIZING // NUQTA CONTROL CORE</text>
+      <text x="40" y="110" font-size="36" fill="url(#scanline)">FAISAL AL ANQOUDI</text>
+      <text x="40" y="138" font-size="16" opacity="0.8">Cybersecurity Engineer · AI Systems Founder · Nuqta AI</text>
+    </g>
+    <g stroke="#00eaff" stroke-opacity="0.55">
+      <line x1="40" y1="75" x2="520" y2="75" />
+      <line x1="40" y1="125" x2="520" y2="125" stroke-opacity="0.25" />
+    </g>
+    <g stroke="#ff007c" stroke-opacity="0.35">
+      <circle cx="500" cy="48" r="12" fill="#050712" />
+      <circle cx="530" cy="48" r="12" fill="#050712" />
+    </g>
   </svg>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2200&pause=600&color=22D3EE&background=05060A00&multiline=true&width=540&height=80&lines=Initializing+Neural+Terminal...;Loading+Faisal+Al+Anqoudi+%5B███████████████▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░%5D;System+Online+%E2%9C%85" alt="Terminal boot sequence" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=00E9FF&center=true&vCenter=true&width=640&height=45&lines=Boot+Sequence+Verified;Deploying+Neural+Nexus+Profile" alt="Neural Nexus boot sequence" />
 </div>
 
-```
-> access /profile
-> mode --set glow
-```
+<p align="center">
+  <a href="mailto:faisal@nuqtai.com"><img src="https://img.shields.io/badge/Email-faisal%40nuqtai.com-ff007c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/anqoudi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/anqoudi"><img src="https://img.shields.io/badge/GitHub-05060a?style=for-the-badge&logo=github&logoColor=0ff" alt="GitHub" /></a>
+  <a href="https://nuqtai.com"><img src="https://img.shields.io/badge/Nuqta%20AI-111729?style=for-the-badge&logo=protocols.io&logoColor=7b2ff7" alt="Nuqta AI" /></a>
+</p>
+
+---
+
+### 🧭 Mission Console
+
+> "Translating national objectives into resilient AI systems for Oman-first innovation."
+
+- Founder of **Nuqta AI** – delivering multilingual copilots, WhatsApp intelligence, and enterprise automation.
+- **Cybersecurity Engineering** student @ Middle East College focused on threat intelligence and defense orchestration.
+- Leading delivery of AI-native experiences for public & private sector hackathons, from **GeoTech** to **Injaz Oman**.
+- Advocate for ethical AI deployment, secure data pipelines, and measurable business outcomes.
+
+---
+
+### 🛰 Strategic Radar
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">Cyber Defense Matrix</h4>
+      <p align="center"><kbd>Threat Hunting</kbd> · <kbd>Attack Surface Mapping</kbd> · <kbd>Incident Response Playbooks</kbd> · <kbd>Security Automation</kbd></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">AI Cognition Stack</h4>
+      <p align="center"><kbd>RAG Workflows</kbd> · <kbd>LangChain</kbd> · <kbd>OpenAI</kbd> · <kbd>Gemini</kbd> · <kbd>Custom Embeddings</kbd></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">Deployment & Ops</h4>
+      <p align="center"><kbd>Docker</kbd> · <kbd>Supabase</kbd> · <kbd>Vercel</kbd> · <kbd>n8n</kbd> · <kbd>WhatsApp Business API</kbd></p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <strong>Faisal Al Anqoudi</strong> · Cybersecurity Engineer | AI Developer | Founder of Nuqta AI
-  <br>
-  <sub>Muscat, Oman · Building neural interfaces for secure, human-centered automation</sub>
-  <br><br>
-  <a href="mailto:faisal@nuqtai.com"><img src="https://img.shields.io/badge/Email-faisal%40nuqtai.com-ff007c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/anqoudi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/anqoudi"><img src="https://img.shields.io/badge/GitHub-05060a?style=for-the-badge&logo=github&logoColor=0ff" alt="GitHub"></a>
-  <a href="https://nuqtai.com"><img src="https://img.shields.io/badge/Nuqta%20AI-7b2ff7?style=for-the-badge&logo=sparkfun&logoColor=white" alt="Nuqta AI"></a>
+  <img src="https://img.shields.io/badge/Python-1C2333?style=for-the-badge&logo=python&logoColor=00eaff" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=FFDF00" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind-111729?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Supabase-06142A?style=for-the-badge&logo=supabase&logoColor=3ecf8e" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Metasploit-050712?style=for-the-badge&logo=metasploit&logoColor=7b2ff7" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-050712?style=for-the-badge&logo=wireshark&logoColor=00eaff" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/n8n-130F26?style=for-the-badge&logo=n8n&logoColor=ff9bd3" alt="n8n" />
 </div>
 
 ---
 
-### 🧠 `whoami`
+### 🧠 Signature Systems
 
-```json
+| Initiative | Mission Impact | Stack |
+| --- | --- | --- |
+| **Nuqta AI Control Center** | Unified SaaS delivering AI copilots, WhatsApp automations, and Omani Arabic interfaces for SMBs. | Next.js · LangChain · n8n · Supabase |
+| **Dahih Conversational Agent** | Tourism and civic engagement assistant with retrieval grounding and policy-aware responses. | OpenAI · Automapi · WhatsApp Cloud API |
+| **CyberMirror 2.0** | Adaptive phishing simulation with analytics for enterprise awareness programs. | Flask · Python · SQLite · Docker |
+| **Learnz Plus** | Mobile learning companion powering AI tutoring for students and training institutes. | Expo · Firebase · Gemini API |
+| **VibeCoding Workshops** | Rapid AI prototyping curriculum enabling students to ship full-stack MVPs in 48 hours. | React · Node.js · Supabase · Cursor |
+
+---
+
+### 🏅 Competitive Signals
+
+- 🥉 **GeoTech Innovation Challenge** – Built spatial AI insights in collaboration with **Al-Ruya**.
+- 🏆 **Injaz Oman & Wix Summit 2025** – Presented Nuqta AI's omni-channel automation platform.
+- 🤝 **Al-Anqa Space & Technologies** – Startup mentorship on scaling secure AI experiences.
+- 🎓 **Middle East College** – Cybersecurity Engineering student, class of 2025.
+
+---
+
+### 📡 Live Telemetry
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anqoudi&show_icons=true&theme=tokyonight&bg_color=050712&title_color=00eaff&icon_color=ff007c&text_color=cdf5ff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anqoudi&layout=compact&theme=tokyonight&bg_color=050712&title_color=00eaff&text_color=cdf5ff" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anqoudi&theme=tokyonight" alt="Profile Summary" width="96%" />
+</div>
+
+> _Stats auto-refresh via GitHub Readme Stats + Summary Cards._
+
+---
+
+### 🧾 Operating Principles
+
+```
+> whoami
 {
   "name": "Faisal Al Anqoudi",
-  "roles": ["Cybersecurity Engineer", "AI Developer", "Founder @ Nuqta AI"],
-  "mission": "Fuse defensive engineering with applied AI for Oman-first products.",
-  "current_focus": ["Enterprise AI copilots", "Cyber defense automation", "Conversational interfaces"],
-  "status": "Open for collaborations that bend reality toward secure automation."
+  "role": ["Cybersecurity Engineer", "AI Systems Founder"],
+  "builds": ["Enterprise copilots", "Secure automation", "Applied AI products"],
+  "seeking": "Alliances that demand measurable impact and resilient delivery."
 }
 ```
 
-### ⚡ Power Grid — Core Systems Online
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h4>Cyber Defense Mesh</h4>
-      <p>
-        <code>Threat Hunting</code> · <code>Incident Playbooks</code> · <code>Red / Blue Simulations</code>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h4>AI Cognition Stack</h4>
-      <p>
-        <code>LangChain</code> · <code>OpenAI</code> · <code>Gemini</code> · <code>RAG Pipelines</code>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h4>Automation & Delivery</h4>
-      <p>
-        <code>n8n</code> · <code>WhatsApp Bots</code> · <code>Dockerized APIs</code> · <code>Vercel Deploy</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-0B132B?style=for-the-badge&logo=python&logoColor=0ff" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-1C2541?style=for-the-badge&logo=javascript&logoColor=ffec51" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind-3A506B?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Supabase-1C1F26?style=for-the-badge&logo=supabase&logoColor=3ecf8e" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Metasploit-05060a?style=for-the-badge&logo=metasploit&logoColor=7b2ff7" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-05060a?style=for-the-badge&logo=wireshark&logoColor=00f5ff" alt="Wireshark" />
-</div>
-
-### 🧠 Projects — AI Memory Cells
-
-<table>
-  <tr>
-    <td width="33%">
-      <h4>Nuqta AI Platform</h4>
-      <p>Multi-tenant SaaS delivering AI copilots, WhatsApp automation, and Omani-language interfaces.</p>
-      <p><strong>Stack:</strong> Next.js · LangChain · n8n · Supabase</p>
-      <p><a href="https://nuqtai.com">Live Operations →</a></p>
-    </td>
-    <td width="33%">
-      <h4>Dahih Chatbot</h4>
-      <p>Arabic-first assistant answering tourism, education, and civic FAQs with retrieval-augmented context.</p>
-      <p><strong>Stack:</strong> OpenAI · Automapi · WhatsApp Business API</p>
-      <p><a href="https://github.com/anqoudi">Demo Clips →</a></p>
-    </td>
-    <td width="33%">
-      <h4>CyberMirror 2.0</h4>
-      <p>Phishing awareness simulator with adaptive difficulty and live analytics dashboards.</p>
-      <p><strong>Stack:</strong> Flask · Python · SQLite · Docker</p>
-      <p><em>Deployment: Internal enterprise training</em></p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>Learnz Plus</h4>
-      <p>Mobile learning companion with AI tutoring flows and offline-first architecture.</p>
-      <p><strong>Stack:</strong> Expo · Firebase · Gemini API</p>
-    </td>
-    <td width="50%">
-      <h4>VibeCoding Workshops</h4>
-      <p>Interactive workshops helping students ship AI-assisted apps in under 48 hours.</p>
-      <p><strong>Stack:</strong> React · Node.js · Supabase · Cursor AI</p>
-    </td>
-  </tr>
-</table>
-
-### 🏆 Signal Boost
-
-- 🥉 **3rd Place** — GeoTech Innovation Challenge with Al-Ruya (AI insights for geospatial planning)
-- 🏆 **Injaz Oman & Wix Summit 2025** — Selected participant showcasing Nuqta AI prototypes
-- 🤝 Mentored by **Al-Anqa Space & Technologies** on startup growth and venture readiness
-- 🎓 Cybersecurity Engineering student @ Middle East College — class of 2025
-
-### 📈 Live Ops Dashboard
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anqoudi&show_icons=true&theme=tokyonight&bg_color=05060a&title_color=22d3ee&icon_color=ff007c&text_color=cdf5ff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anqoudi&layout=compact&theme=tokyonight&bg_color=05060a&title_color=22d3ee&text_color=cdf5ff" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anqoudi&theme=tokyonight" alt="Profile Details" width="96%" />
-</div>
-
-> _Telemetry powered by GitHub Readme Stats & Summary Cards (auto-updates daily)._ 
-
-### 💬 Matrix Whisper
-
-```
-“Innovation isn’t coding — it’s translating imagination into logic.”
-```
-
-<div align="center">
-  <sub>type `connect --collaborate` to open a secure channel.</sub>
-</div>
-
 ```
 > system.shutdown()
-Connection terminated_
+CHANNEL CLOSED _
 ```
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alanqoudif&style=flat-square&color=22d3ee" alt="Profile views" />
-</div>
-
----
-
-<div align="center">
-  <sub>Designed in the <strong>Neural Terminal</strong> · Powered by curiosity, cyber defense, and a pinch of neon.</sub>
-</div>
