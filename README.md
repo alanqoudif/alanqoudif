@@ -95,21 +95,23 @@
 
 ---
 
-## 📡 Live Telemetry Deck
+## 📡 Signal Intelligence Deck
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anqoudi&theme=tokyonight" alt="Faisal's profile overview" width="92%" />
+  <img src="https://img.shields.io/github/commit-activity/m/anqoudi/alanqoudif?label=Nuqta%20AI%20Ops%20Tempo&color=22d3ee&style=for-the-badge" alt="Monthly commit activity badge" />
+  <img src="https://img.shields.io/github/last-commit/anqoudi/alanqoudif?label=Latest%20Deploy%20Signal&color=0ea5e9&style=for-the-badge" alt="Last commit badge" />
+  <img src="https://img.shields.io/github/stars/anqoudi?label=Constellation&color=a855f7&style=for-the-badge" alt="GitHub stars badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anqoudi&bg_color=0a0f1c&color=38bdf8&line=22d3ee&point=a855f7&area=true&hide_border=true" alt="GitHub activity graph" width="92%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anqoudi&show_icons=true&theme=tokyonight&hide_border=true" alt="Faisal's GitHub stats" width="92%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anqoudi&theme=tokyonight_duo&hide_border=true" alt="GitHub streak" width="65%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anqoudi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="60%" />
 </p>
 
-> _Telemetry powered by Vercel-hosted profile summary cards, Readme Activity Graph, and Streak Stats for reliable, auto-refreshing insights._
+> _Shields.io telemetry and Readme Stats combine to surface reliable, auto-refreshing intelligence across the Nuqta AI codebase._
 
 ---
 
