@@ -1,100 +1,140 @@
-<img src="assets/header-banner.svg" alt="فيصل العنقودي - الأمن السيبراني | الذكاء الاصطناعي" width="100%">
+<!-- Neural Nexus: Professional AI & Cyber Defense Profile -->
 
 <div align="center">
-  <a href="https://linkedin.com/in/faisal-alanqoudi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/faisal_alanqoudi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:faisal.alanqoudi@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <svg width="560" height="160" viewBox="0 0 560 160" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="scanline" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00eaff" />
+        <stop offset="50%" stop-color="#7b2ff7" />
+        <stop offset="100%" stop-color="#ff007c" />
+      </linearGradient>
+      <linearGradient id="dark" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#050712" />
+        <stop offset="100%" stop-color="#0a0f1f" />
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="560" height="160" rx="18" fill="url(#dark)" stroke="url(#scanline)" stroke-width="2" />
+    <g font-family="'JetBrains Mono', 'Fira Code', monospace" fill="#d2f6ff">
+      <text x="40" y="60" font-size="20" opacity="0.65">INITIALIZING // NUQTA CONTROL CORE</text>
+      <text x="40" y="110" font-size="36" fill="url(#scanline)">FAISAL AL ANQOUDI</text>
+      <text x="40" y="138" font-size="16" opacity="0.8">Cybersecurity Engineer · AI Systems Founder · Nuqta AI</text>
+    </g>
+    <g stroke="#00eaff" stroke-opacity="0.55">
+      <line x1="40" y1="75" x2="520" y2="75" />
+      <line x1="40" y1="125" x2="520" y2="125" stroke-opacity="0.25" />
+    </g>
+    <g stroke="#ff007c" stroke-opacity="0.35">
+      <circle cx="500" cy="48" r="12" fill="#050712" />
+      <circle cx="530" cy="48" r="12" fill="#050712" />
+    </g>
+  </svg>
 </div>
-
-## 💼 نبذة عني
-طالب متخصص في الأمن السيبراني مع شغف كبير بالذكاء الاصطناعي وتطبيقاته. أسعى لتطوير مهاراتي في مجال حماية المعلومات وتحليل الثغرات الأمنية، مع العمل على مشاريع مبتكرة تجمع بين الأمن السيبراني والذكاء الاصطناعي.
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanqoudif&theme=dark" alt="GitHub Streak Stats">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=00E9FF&center=true&vCenter=true&width=640&height=45&lines=Boot+Sequence+Verified;Deploying+Neural+Nexus+Profile" alt="Neural Nexus boot sequence" />
 </div>
 
-## 🔐 مهارات الأمن السيبراني
-<div align="center">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-4B275F?style=for-the-badge" alt="Ethical Hacking">
-  <img src="https://img.shields.io/badge/Penetration%20Testing-0078D7?style=for-the-badge" alt="Penetration Testing">
-  <img src="https://img.shields.io/badge/Network%20Security-00A4EF?style=for-the-badge" alt="Network Security">
-  <img src="https://img.shields.io/badge/Cryptography-FFB900?style=for-the-badge" alt="Cryptography">
-  <img src="https://img.shields.io/badge/Malware%20Analysis-107C10?style=for-the-badge" alt="Malware Analysis">
-  <img src="https://img.shields.io/badge/Incident%20Response-F25022?style=for-the-badge" alt="Incident Response">
-  <img src="https://img.shields.io/badge/ISO%2027001-00897B?style=for-the-badge" alt="ISO 27001">
-</div>
-
-## 🤖 مهارات الذكاء الاصطناعي
-<div align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge" alt="NLP">
-  <img src="https://img.shields.io/badge/Big%20Data-E25A1C?style=for-the-badge" alt="Big Data">
-  <img src="https://img.shields.io/badge/Python%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python AI">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-</div>
-
-## 💻 المهارات التقنية
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Nmap-5391FE?style=for-the-badge" alt="Nmap">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</div>
-
-## 🚀 المشاريع
-### [نظام كشف التهديدات المعتمد على الذكاء الاصطناعي](projects/ai-threat-detection/README.md)
-تطوير نموذج للكشف عن الهجمات السيبرانية باستخدام خوارزميات التعلم الآلي. يقوم النظام بتحليل أنماط حركة المرور على الشبكة للكشف عن السلوكيات المشبوهة والهجمات المحتملة في الوقت الفعلي.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AI-Threat%20Detection-blue?style=for-the-badge" alt="AI Threat Detection">
-</div>
-
-### [ماسح الثغرات الأمنية لتطبيقات الويب](projects/web-vulnerability-scanner/README.md)
-أتمتة عمليات البحث عن الثغرات الأمنية في تطبيقات الويب باستخدام أدوات متقدمة وتقنيات اختبار الاختراق. يساعد المشروع في تحديد نقاط الضعف قبل أن يتمكن المهاجمون من استغلالها.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Web-Security-red?style=for-the-badge" alt="Web Security">
-</div>
-
-### تطبيق للأمن السيبراني
-تطوير أداة لتقييم مستوى الأمان في الأنظمة والشبكات، مع تقديم توصيات لتحسين الوضع الأمني وسد الثغرات المحتملة.
-
-## 📚 التعليم
-- بكالوريوس في الأمن السيبراني (قيد الدراسة)
-- شهادات في مجال الأمن السيبراني والذكاء الاصطناعي
-
-## 📊 إحصائيات GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanqoudif&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanqoudif&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
-## 📫 تواصل معي
-أنا دائمًا منفتح للتعاون في مشاريع الأمن السيبراني والذكاء الاصطناعي. إذا كنت مهتمًا بالعمل معًا أو لديك أي استفسارات، فلا تتردد في التواصل معي عبر:
-
-- البريد الإلكتروني: faisal.alanqoudi@example.com
-- لينكد إن: [فيصل العنقودي](https://linkedin.com/in/faisal-alanqoudi)
-- تويتر: [@faisal_alanqoudi](https://twitter.com/faisal_alanqoudi)
+<p align="center">
+  <a href="mailto:faisal@nuqtai.com"><img src="https://img.shields.io/badge/Email-faisal%40nuqtai.com-ff007c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/anqoudi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/anqoudi"><img src="https://img.shields.io/badge/GitHub-05060a?style=for-the-badge&logo=github&logoColor=0ff" alt="GitHub" /></a>
+  <a href="https://nuqtai.com"><img src="https://img.shields.io/badge/Nuqta%20AI-111729?style=for-the-badge&logo=protocols.io&logoColor=7b2ff7" alt="Nuqta AI" /></a>
+</p>
 
 ---
 
+### 🧭 Mission Console
+
+> "Translating national objectives into resilient AI systems for Oman-first innovation."
+
+- Founder of **Nuqta AI** – delivering multilingual copilots, WhatsApp intelligence, and enterprise automation.
+- **Cybersecurity Engineering** student @ Middle East College focused on threat intelligence and defense orchestration.
+- Leading delivery of AI-native experiences for public & private sector hackathons, from **GeoTech** to **Injaz Oman**.
+- Advocate for ethical AI deployment, secure data pipelines, and measurable business outcomes.
+
+---
+
+### 🛰 Strategic Radar
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">Cyber Defense Matrix</h4>
+      <p align="center"><kbd>Threat Hunting</kbd> · <kbd>Attack Surface Mapping</kbd> · <kbd>Incident Response Playbooks</kbd> · <kbd>Security Automation</kbd></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">AI Cognition Stack</h4>
+      <p align="center"><kbd>RAG Workflows</kbd> · <kbd>LangChain</kbd> · <kbd>OpenAI</kbd> · <kbd>Gemini</kbd> · <kbd>Custom Embeddings</kbd></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">Deployment & Ops</h4>
+      <p align="center"><kbd>Docker</kbd> · <kbd>Supabase</kbd> · <kbd>Vercel</kbd> · <kbd>n8n</kbd> · <kbd>WhatsApp Business API</kbd></p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alanqoudif&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Python-1C2333?style=for-the-badge&logo=python&logoColor=00eaff" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=FFDF00" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind-111729?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Supabase-06142A?style=for-the-badge&logo=supabase&logoColor=3ecf8e" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Metasploit-050712?style=for-the-badge&logo=metasploit&logoColor=7b2ff7" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-050712?style=for-the-badge&logo=wireshark&logoColor=00eaff" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/n8n-130F26?style=for-the-badge&logo=n8n&logoColor=ff9bd3" alt="n8n" />
 </div>
 
-⭐️ من [alanqoudif](https://github.com/alanqoudif)
+---
+
+### 🧠 Signature Systems
+
+| Initiative | Mission Impact | Stack |
+| --- | --- | --- |
+| **Nuqta AI Control Center** | Unified SaaS delivering AI copilots, WhatsApp automations, and Omani Arabic interfaces for SMBs. | Next.js · LangChain · n8n · Supabase |
+| **Dahih Conversational Agent** | Tourism and civic engagement assistant with retrieval grounding and policy-aware responses. | OpenAI · Automapi · WhatsApp Cloud API |
+| **CyberMirror 2.0** | Adaptive phishing simulation with analytics for enterprise awareness programs. | Flask · Python · SQLite · Docker |
+| **Learnz Plus** | Mobile learning companion powering AI tutoring for students and training institutes. | Expo · Firebase · Gemini API |
+| **VibeCoding Workshops** | Rapid AI prototyping curriculum enabling students to ship full-stack MVPs in 48 hours. | React · Node.js · Supabase · Cursor |
+
+---
+
+### 🏅 Competitive Signals
+
+- 🥉 **GeoTech Innovation Challenge** – Built spatial AI insights in collaboration with **Al-Ruya**.
+- 🏆 **Injaz Oman & Wix Summit 2025** – Presented Nuqta AI's omni-channel automation platform.
+- 🤝 **Al-Anqa Space & Technologies** – Startup mentorship on scaling secure AI experiences.
+- 🎓 **Middle East College** – Cybersecurity Engineering student, class of 2025.
+
+---
+
+### 📡 Live Telemetry
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anqoudi&show_icons=true&theme=tokyonight&bg_color=050712&title_color=00eaff&icon_color=ff007c&text_color=cdf5ff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anqoudi&layout=compact&theme=tokyonight&bg_color=050712&title_color=00eaff&text_color=cdf5ff" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anqoudi&theme=tokyonight" alt="Profile Summary" width="96%" />
+</div>
+
+> _Stats auto-refresh via GitHub Readme Stats + Summary Cards._
+
+---
+
+### 🧾 Operating Principles
+
+```
+> whoami
+{
+  "name": "Faisal Al Anqoudi",
+  "role": ["Cybersecurity Engineer", "AI Systems Founder"],
+  "builds": ["Enterprise copilots", "Secure automation", "Applied AI products"],
+  "seeking": "Alliances that demand measurable impact and resilient delivery."
+}
+```
+
+```
+> system.shutdown()
+CHANNEL CLOSED _
+```
+
