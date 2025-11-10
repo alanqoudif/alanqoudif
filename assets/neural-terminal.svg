@@ -1,0 +1,50 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#030712" />
+      <stop offset="0.45" stop-color="#0F172A" />
+      <stop offset="1" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="pulse" x1="0" y1="260" x2="1600" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0" />
+      <stop offset="0.25" stop-color="#38BDF8" stop-opacity="0.4" />
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.75" />
+      <stop offset="0.75" stop-color="#A855F7" stop-opacity="0.6" />
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="flare" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 260) rotate(90) scale(420 820)">
+      <stop stop-color="#38BDF8" stop-opacity="0.45" />
+      <stop offset="1" stop-color="#0F172A" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#334155" stroke-opacity="0.25" stroke-width="1" />
+    </pattern>
+    <filter id="glow" x="-20" y="-20" width="1640" height="560" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="520" fill="url(#bg)" />
+  <rect width="1600" height="520" fill="url(#grid)" />
+  <rect width="1600" height="520" fill="url(#flare)" />
+  <rect y="230" width="1600" height="60" fill="url(#pulse)" opacity="0.85" />
+  <g filter="url(#glow)">
+    <text x="140" y="210" fill="#38BDF8" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="28" letter-spacing="0.2em">NEURAL TERMINAL v2.1</text>
+    <text x="140" y="270" fill="white" font-family="'Inter', 'Segoe UI', sans-serif" font-size="64" font-weight="700" letter-spacing="0.04em">Faisal Al Anqoudi</text>
+    <text x="140" y="330" fill="#94A3B8" font-family="'Inter', 'Segoe UI', sans-serif" font-size="26">Cybersecurity Engineer · Applied AI Architect · Founder of Nuqta AI</text>
+  </g>
+  <g opacity="0.55">
+    <path d="M1240 120 L1480 120 L1530 170 L1530 360 L1240 360 Z" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="2" />
+    <text x="1260" y="180" fill="#22D3EE" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="22">SYSTEM STATUS</text>
+    <text x="1260" y="220" fill="#E2E8F0" font-family="'Inter', 'Segoe UI', sans-serif" font-size="20">AI CO-PILOTS ONLINE</text>
+    <text x="1260" y="255" fill="#A855F7" font-family="'Inter', 'Segoe UI', sans-serif" font-size="18">Threat surface monitored</text>
+    <text x="1260" y="288" fill="#38BDF8" font-family="'Inter', 'Segoe UI', sans-serif" font-size="18">Automation latency &lt; 280ms</text>
+    <text x="1260" y="321" fill="#22D3EE" font-family="'Inter', 'Segoe UI', sans-serif" font-size="18">Deployment ring: Stable</text>
+  </g>
+  <circle cx="1140" cy="410" r="68" stroke="#A855F7" stroke-opacity="0.55" stroke-width="4" fill="none" />
+  <circle cx="1140" cy="410" r="40" stroke="#38BDF8" stroke-opacity="0.75" stroke-width="4" fill="none" />
+  <text x="1097" y="420" fill="#E0F2FE" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="20">AI OPS</text>
+</svg>

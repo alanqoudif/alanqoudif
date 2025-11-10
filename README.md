@@ -1,75 +1,84 @@
-<!-- Faisal Al Anqoudi · Professional README -->
+<!-- Faisal Al Anqoudi · Neural Terminal README -->
 
 <p align="center">
-  <img src="assets/pulse-interface.svg" alt="Faisal Al Anqoudi – Cyber Defense & Applied AI" width="100%" />
+  <img src="assets/neural-terminal.svg" alt="Faisal Al Anqoudi – Neural Terminal" width="100%" />
 </p>
 
 <p align="center">
-  <b>Cybersecurity Engineer · Applied AI Builder · Founder of Nuqta AI</b><br />
-  Designing Oman-first intelligence systems that blend resilient cyber defense with measurable product impact.
+  <b>Cybersecurity Engineer · Applied AI Architect · Founder of Nuqta AI</b><br />
+  Building sovereign intelligence systems for Oman that merge defensive resilience with measurable business outcomes.
 </p>
 
 <p align="center">
-  <a href="mailto:faisal@nuqtai.com">Email</a> ·
-  <a href="https://linkedin.com/in/anqoudi">LinkedIn</a> ·
-  <a href="https://github.com/anqoudi">GitHub</a> ·
-  <a href="https://nuqtai.com">Nuqta AI</a>
+  <a href="mailto:faisal@nuqtai.com"><img src="https://img.shields.io/badge/Email-faisal%40nuqtai.com-22d3ee?style=flat-square&logo=minutemailer&logoColor=white" alt="Email Faisal" /></a>
+  <a href="https://linkedin.com/in/anqoudi"><img src="https://img.shields.io/badge/LinkedIn-Faisal%20Al%20Anqoudi-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/anqoudi"><img src="https://img.shields.io/badge/GitHub-@anqoudi-111827?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://nuqtai.com"><img src="https://img.shields.io/badge/Nuqta%20AI-Visit%20Site-a855f7?style=flat-square&logo=vercel&logoColor=white" alt="Nuqta AI" /></a>
 </p>
 
 ---
 
-## Command Deck
+## 🚀 Executive Brief
 
-- Leading **Nuqta AI**, an applied intelligence studio building multilingual copilots, WhatsApp agents, and automation layers for Omani enterprises.
-- Cybersecurity Engineering student @ **Middle East College** with emphasis on threat intelligence, secure infrastructure, and red-team simulations.
-- Delivering AI transformations for hackathons and national initiatives including **GeoTech**, **Wix Summit**, and **Injaz Oman**.
-- Advocate for responsible AI deployment grounded in compliance, observability, and business KPIs.
+- Leading **Nuqta AI**, the applied intelligence studio crafting multilingual copilots, WhatsApp agents, and automation fabrics for Omani enterprises.
+- Cybersecurity Engineering candidate @ **Middle East College**, focused on threat intelligence, SOC automations, and red-team readiness.
+- Architecting AI solutions across hackathons and national programs including **GeoTech**, **Wix Summit**, and **Injaz Oman**.
+- Championing responsible AI deployments backed by compliance, observability, and outcome-based KPIs.
 
 ---
 
-## Strategic Focus
+## 🧠 Neural Capabilities Matrix
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4 align="center">AI Systems Delivery</h4>
-      <p><strong>What:</strong> Retrieval-augmented copilots, sector-specific chatbots, autonomous workflows.<br /><strong>Stack:</strong> LangChain · OpenAI · Gemini · Supabase · n8n · Automapi.</p>
+      <h4 align="center">Intelligent Systems</h4>
+      <p><strong>Delivery:</strong> Retrieval-augmented copilots, enterprise chatbots, multilingual knowledge engines.<br /><strong>Core:</strong> LangChain · OpenAI · Gemini · Supabase · n8n.</p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">Cyber Defense Engineering</h4>
-      <p><strong>What:</strong> Threat modeling, phishing simulations, incident playbooks, SOC automation.<br /><strong>Toolkit:</strong> Burp Suite · Nessus · Metasploit · Wireshark · Nmap.</p>
+      <h4 align="center">Cyber Defense</h4>
+      <p><strong>Delivery:</strong> Threat modeling, phishing simulations, SOC runbooks, purple-team labs.<br /><strong>Toolkit:</strong> Burp Suite · Nessus · Metasploit · Wireshark · Nmap.</p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">Product & Deployment</h4>
-      <p><strong>What:</strong> Full-stack MVPs, SaaS control panels, hybrid cloud rollouts.<br /><strong>Enablers:</strong> Next.js · Tailwind · Docker · Vercel · Hostinger VPS.</p>
+      <h4 align="center">Product Ops</h4>
+      <p><strong>Delivery:</strong> SaaS control centers, multi-cloud rollouts, continuous delivery pipelines.<br /><strong>Stack:</strong> Next.js · React · Tailwind CSS · Docker · Vercel · Hostinger VPS.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Signature Systems
+## 🔭 Strategic Radar 2025
 
-| Initiative | Outcome | Core Technologies |
-| --- | --- | --- |
-| **Nuqta AI Control Center** | Unified SaaS delivering AI copilots, WhatsApp automation, and Omani Arabic UX for SMBs. | Next.js · LangChain · Supabase · n8n |
-| **Dahih Conversational Agent** | Civic tourism chatbot answering questions on education, travel, and government services. | OpenAI · Automapi · WhatsApp Cloud API |
-| **CyberMirror 2.0** | Phishing simulation suite with analytics for corporate awareness programs. | Flask · Python · SQLite · Docker |
-| **Learnz Plus** | AI tutoring companion driving adaptive learning for institutes and students. | Expo · Firebase · Gemini API |
-| **VibeCoding Workshops** | Rapid prototyping bootcamps enabling students to ship full-stack MVPs inside 48 hours. | React · Node.js · Supabase |
+- **Sovereign AI Assistants:** Deploying Arabic-first copilots for regulated sectors (finance, public services, tourism).
+- **Zero-Trust Automation:** Embedding access governance and audit trails inside AI-powered workflows.
+- **Real-Time Telemetry:** Streaming operational analytics into executive dashboards for instant KPI visibility.
+- **Skill Uplift:** Delivering AI enablement workshops that graduate teams into self-sustaining builders.
 
 ---
 
-## Impact Snapshots
+## 🛡️ Flagship Systems
 
-- 🥉 **GeoTech Innovation Challenge** – Delivered geospatial AI insights alongside Al-Ruya.
-- 🏆 **Injaz Oman & Wix Summit 2025** – Showcased Nuqta AI omni-channel automation platform.
+| Initiative | Mission | Core Technologies |
+| --- | --- | --- |
+| **Nuqta AI Control Center** | Unified SaaS delivering AI copilots, WhatsApp automation, and Arabic UX for SMBs. | Next.js · LangChain · Supabase · n8n |
+| **Dahih Conversational Agent** | Tourism + civic services chatbot answering in Omani Arabic. | OpenAI · Automapi · WhatsApp Cloud API |
+| **CyberMirror 2.0** | Phishing simulation suite with analytics for enterprise awareness programs. | Flask · Python · SQLite · Docker |
+| **Learnz Plus** | AI tutoring companion powering adaptive learning journeys. | Expo · Firebase · Gemini API |
+| **VibeCoding Workshops** | Rapid prototyping bootcamps that ship MVPs in 48 hours. | React · Node.js · Supabase |
+
+---
+
+## 📊 Impact & Recognition
+
+- 🥉 **GeoTech Innovation Challenge** – Delivered geospatial AI intelligence with Al-Ruya.
+- 🏆 **Injaz Oman & Wix Summit 2025** – Presented Nuqta AI omni-channel automation platform.
 - 🤝 **Al-Anqa Space & Technologies** – Mentored on scaling secure AI venture delivery.
 - 🎓 **Middle East College** – Cybersecurity Engineering, Class of 2025.
 
 ---
 
-## Delivery Stack
+## 🧰 Trusted Toolchain
 
 <details open>
   <summary><strong>Languages & Frameworks</strong></summary>
@@ -93,23 +102,23 @@
 
 ---
 
-## Activity Signals
+## 📡 Activity Signals
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/anqoudi/anqoudif?color=22d3ee&label=Last%20update&style=flat-square" alt="Last commit" />
-  <img src="https://img.shields.io/github/followers/anqoudi?label=Followers&style=flat-square&color=a855f7" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/anqoudi?affiliations=OWNER&label=Profile%20stars&style=flat-square&color=34d399" alt="Profile stars" />
+  <img src="https://img.shields.io/github/last-commit/anqoudi/alanqoudif?color=22d3ee&label=Last%20update&style=flat-square" alt="Last commit" />
+  <img src="https://img.shields.io/github/followers/anqoudi?label=Followers&style=flat-square&color=0ea5e9" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/anqoudi?affiliations=OWNER&label=Profile%20stars&style=flat-square&color=a855f7" alt="Profile stars" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anqoudi&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" width="72%" />
 </p>
 
-> _Realtime badges are served from shields.io and Demolab streak stats with caching to avoid blank renders._
+> _Telemetry sourced from shields.io and Demolab streak stats with smart caching to prevent blank renders._
 
 ---
 
-## Operating Principles
+## 🧭 Operating Principles
 
 ```json
 {
@@ -120,7 +129,7 @@
 }
 ```
 
-```
+```text
 > system.shutdown()
 CONNECTION TERMINATED _
 ```
